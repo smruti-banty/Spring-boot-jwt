@@ -4,7 +4,7 @@ This repository contains a Spring Boot project demonstrating JWT (JSON Web Token
 ## Overview
 JWT authentication is a popular method for securing APIs by providing a stateless mechanism for authenticating requests. This project demonstrates how to implement JWT authentication in a Spring Boot application.
 
-# Features
+## Features
 - User authentication with JWT
 - Stateless authentication mechanism
 
@@ -14,5 +14,5 @@ JWT authentication is a popular method for securing APIs by providing a stateles
 - JSON Web Tokens (JWT)
 - Maven
 
-Acknowledgments
+## Acknowledgments
 This project is based on the Spring Boot JWT Authentication tutorial by Smruti Ranjan Nayak.
